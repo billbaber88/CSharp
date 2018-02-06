@@ -1,0 +1,10 @@
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.AssemblyInfo.cs
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.deps.json
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.runtimeconfig.json
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.runtimeconfig.dev.json
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.dll
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.pdb
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.dll
+C:\Users\wlb10\Desktop\C# Games\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.pdb

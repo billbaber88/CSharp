@@ -1,0 +1,10 @@
+C:\Users\wlb10\Desktop\C# Games\factorial\bin\Debug\netcoreapp2.0\factorial.deps.json
+C:\Users\wlb10\Desktop\C# Games\factorial\bin\Debug\netcoreapp2.0\factorial.runtimeconfig.json
+C:\Users\wlb10\Desktop\C# Games\factorial\bin\Debug\netcoreapp2.0\factorial.runtimeconfig.dev.json
+C:\Users\wlb10\Desktop\C# Games\factorial\bin\Debug\netcoreapp2.0\factorial.dll
+C:\Users\wlb10\Desktop\C# Games\factorial\bin\Debug\netcoreapp2.0\factorial.pdb
+C:\Users\wlb10\Desktop\C# Games\factorial\obj\Debug\netcoreapp2.0\factorial.csproj.CoreCompileInputs.cache
+C:\Users\wlb10\Desktop\C# Games\factorial\obj\Debug\netcoreapp2.0\factorial.AssemblyInfoInputs.cache
+C:\Users\wlb10\Desktop\C# Games\factorial\obj\Debug\netcoreapp2.0\factorial.AssemblyInfo.cs
+C:\Users\wlb10\Desktop\C# Games\factorial\obj\Debug\netcoreapp2.0\factorial.dll
+C:\Users\wlb10\Desktop\C# Games\factorial\obj\Debug\netcoreapp2.0\factorial.pdb

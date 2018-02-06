@@ -1,0 +1,10 @@
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.deps.json
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.runtimeconfig.json
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.runtimeconfig.dev.json
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.dll
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\bin\Debug\netcoreapp2.0\TowerOfHanoi.pdb
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.AssemblyInfoInputs.cache
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.AssemblyInfo.cs
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.dll
+C:\Users\wlb10\Desktop\C# Games\TowerOfHanoi\obj\Debug\netcoreapp2.0\TowerOfHanoi.pdb

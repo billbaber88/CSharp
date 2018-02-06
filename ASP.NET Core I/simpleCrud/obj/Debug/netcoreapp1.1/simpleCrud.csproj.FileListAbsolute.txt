@@ -1,0 +1,8 @@
+C:\Users\wlb10\Desktop\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp1.1\simpleCrud.deps.json
+C:\Users\wlb10\Desktop\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp1.1\simpleCrud.runtimeconfig.json
+C:\Users\wlb10\Desktop\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp1.1\simpleCrud.runtimeconfig.dev.json
+C:\Users\wlb10\Desktop\DojoAssignments\netCore\simpleCrud\obj\Debug\netcoreapp1.1\simpleCrud.AssemblyInfo.cs
+C:\Users\wlb10\Desktop\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp1.1\simpleCrud.dll
+C:\Users\wlb10\Desktop\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp1.1\simpleCrud.pdb
+C:\Users\wlb10\Desktop\DojoAssignments\netCore\simpleCrud\obj\Debug\netcoreapp1.1\simpleCrud.dll
+C:\Users\wlb10\Desktop\DojoAssignments\netCore\simpleCrud\obj\Debug\netcoreapp1.1\simpleCrud.pdb

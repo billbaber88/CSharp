@@ -1,0 +1,10 @@
+C:\Users\wlb10\Desktop\C# Games\Sieve\bin\Debug\netcoreapp2.0\Sieve.deps.json
+C:\Users\wlb10\Desktop\C# Games\Sieve\bin\Debug\netcoreapp2.0\Sieve.runtimeconfig.json
+C:\Users\wlb10\Desktop\C# Games\Sieve\bin\Debug\netcoreapp2.0\Sieve.runtimeconfig.dev.json
+C:\Users\wlb10\Desktop\C# Games\Sieve\bin\Debug\netcoreapp2.0\Sieve.dll
+C:\Users\wlb10\Desktop\C# Games\Sieve\bin\Debug\netcoreapp2.0\Sieve.pdb
+C:\Users\wlb10\Desktop\C# Games\Sieve\obj\Debug\netcoreapp2.0\Sieve.csproj.CoreCompileInputs.cache
+C:\Users\wlb10\Desktop\C# Games\Sieve\obj\Debug\netcoreapp2.0\Sieve.AssemblyInfoInputs.cache
+C:\Users\wlb10\Desktop\C# Games\Sieve\obj\Debug\netcoreapp2.0\Sieve.AssemblyInfo.cs
+C:\Users\wlb10\Desktop\C# Games\Sieve\obj\Debug\netcoreapp2.0\Sieve.dll
+C:\Users\wlb10\Desktop\C# Games\Sieve\obj\Debug\netcoreapp2.0\Sieve.pdb

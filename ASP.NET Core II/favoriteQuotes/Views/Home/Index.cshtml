@@ -1,0 +1,19 @@
+<h5>Missing a quote? Add one here</h5>
+<form action="createQuote" method="POST">
+    Name: 
+    <input type="text" name="name"><br>
+    Quote:
+    <textarea name="quote"></textarea><br>
+    <button type="submit">Add Quote</button>
+</form>
+<br>
+<h1>The Best Quotes in History:</h1>
+
+@{
+    // ViewBag.Quotes is a variable we set in HomeController.cs
+    @foreach(var quote in ViewBag.Quotes)
+    {
+        <blockquote>@quote["quote"]</blockquote>
+        <h4>- @quote["name"]</h4>
+    }
+}

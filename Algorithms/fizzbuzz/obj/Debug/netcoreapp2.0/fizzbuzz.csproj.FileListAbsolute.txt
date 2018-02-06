@@ -1,0 +1,10 @@
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\obj\Debug\netcoreapp2.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\obj\Debug\netcoreapp2.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\obj\Debug\netcoreapp2.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\bin\Debug\netcoreapp2.0\fizzbuzz.deps.json
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\bin\Debug\netcoreapp2.0\fizzbuzz.runtimeconfig.json
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\bin\Debug\netcoreapp2.0\fizzbuzz.runtimeconfig.dev.json
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\bin\Debug\netcoreapp2.0\fizzbuzz.dll
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\bin\Debug\netcoreapp2.0\fizzbuzz.pdb
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\obj\Debug\netcoreapp2.0\fizzbuzz.dll
+C:\Users\wlb10\Desktop\C# Games\fizzbuzz\obj\Debug\netcoreapp2.0\fizzbuzz.pdb

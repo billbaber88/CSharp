@@ -1,0 +1,16 @@
+@model loginRegistration.Models.LoginUser
+<h1>Log in</h1>
+<form class="form-group" asp-controller="Login" asp-action="signin" method="post">
+    <span asp-validation-for="email"></span>
+    <br>
+    <label>Email:</label>
+    <input class="form-control" asp-for="email">
+    <br>
+
+    <span asp-validation-for="password"></span>
+    <br>
+    <label>Password:</label>
+    <input class="form-control" asp-for="password">
+    <br>
+    <button type="submit" class="btn btn-primary">Log in</button>
+</form>
